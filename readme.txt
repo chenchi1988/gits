@@ -4,8 +4,7 @@ Git is free software.
 Git is a distributed version control system.
 Git is free software.
 
-chenc
-123123
+Git has a mutable index called stage.
 
 
-add
+123
